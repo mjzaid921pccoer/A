@@ -8,7 +8,7 @@ restart command prompt if running
 
 and then Compile & Run/Execute Cpp files by following command on Command Prompt at directory location.
 
-g++ filename.cpp -o filename.exe
+g++ filename.cpp -o filename.exe                                                                                                
 .\filename.exe
 
 First command to Compile and convert object file to executable file
